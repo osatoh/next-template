@@ -1,4 +1,4 @@
-# Next.js + TypeScript + Tailwind + Storybook Setup Project
+# Next.js + TypeScript + Tailwind + Storybook Setup Project from https://github.com/kolife01/nextjs-with-typescript-tailwind-storybook
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with TypeScript, Tailwind, Storybook.
 
@@ -12,24 +12,12 @@ The project contains main library with minimum config files below
 - Prettier
 - husky
 
-## Installation
-
-You can generate a new repository with the same directory structure and files as an existing repository.
-
-Click **Use this template**
-
-or
-
-```bash
-git clone https://github.com/kolife01/nextjs-with-typescript-tailwind-storybook.git
+## Getting Start
 ```
-
-First, run the development server:
-
-```bash
-yarn
-yarn dev
+git clone git@github.com:osatoh/rails_graphql_api_template.git
+make init
 ```
+That's it!
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
